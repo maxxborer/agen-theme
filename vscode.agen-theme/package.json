@@ -1,8 +1,14 @@
 {
     "name": "***REMOVED***-agen-theme",
     "displayName": "aGen",
+    "publisher": "***REMOVED***",
     "description": "https://github.com/***REMOVED***/agen-theme",
-    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/***REMOVED***/agen-theme"
+    },
+    "icon": "icon.png",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
