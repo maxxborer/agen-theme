@@ -1,0 +1,21 @@
+{
+    "name": "***REMOVED***-agen-theme",
+    "displayName": "aGen",
+    "description": "https://github.com/***REMOVED***/agen-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "aGen Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/agen-color-theme.json"
+            }
+        ]
+    }
+}

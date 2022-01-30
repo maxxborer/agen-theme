@@ -1,0 +1,12 @@
+**/node_modules
+**/dist
+**/.idea/*
+**/.vscode
+**/.tm_properties
+**/.DS_Store
+**/.env.local
+**/.prettierignore
+**/.prettierrc.js
+**/jsconfig.json
+**/npm-debug.log*
+**/tsconfig.tsbuildinfo
