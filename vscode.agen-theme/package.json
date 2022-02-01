@@ -1,6 +1,6 @@
 {
     "name": "agen-theme",
-    "displayName": "aGen",
+    "displayName": "aGen Theme",
     "publisher": "***REMOVED***",
     "description": "vscode theme (Palenight + Github Bolds + medium contrast colors)",
     "repository": {
@@ -8,7 +8,7 @@
       "url": "https://github.com/***REMOVED***/agen-theme"
     },
     "icon": "icon.png",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.63.0"
     },

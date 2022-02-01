@@ -44,7 +44,7 @@
     "listFilterWidget.background": "#00cbfb60",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#ff4d33",
-    "tree.indentGuidesStroke": "#EEEEEEBE",
+    "tree.indentGuidesStroke": "#EEEEEE1f",
 
     "statusBar.foreground": "#EEEEEE",
     "statusBar.background": "#2c303d",
@@ -79,7 +79,7 @@
     "button.hoverBackground": "#00cbfbee",
     "button.secondaryBackground": "#232731AA",
     "button.secondaryForeground": "#EEEEEE",
-    "button.secondaryHoverBackground": "#00cbfbee",
+    "button.secondaryHoverBackground": "#00cbfb60",
 
     "input.background": "#3f4559",
     "input.foreground": "#FFFFFF",
@@ -213,7 +213,7 @@
     "editor.selectionHighlightBorder": "#00000000",
     "editor.findMatchBackground": "#7681a499",
     "editor.findMatchBorder": "#00000000",
-    "editor.findMatchHighlightBackground": "#00cbfb60",
+    "editor.findMatchHighlightBackground": "#00cbfb30",
     "editor.findMatchHighlightBorder": "#00000000",
     "editor.findRangeHighlightBackground": "#7681a433",
     "editor.findRangeHighlightBorder": "#00000000",
