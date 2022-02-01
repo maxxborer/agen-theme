@@ -27,7 +27,7 @@
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#EEEEEEAE",
     "sideBarSectionHeader.border": "#232731",
-    "sideBarTitle.foreground": "#EEEEEEAE",
+    "sideBarTitle.foreground": "#00cbfb",
     "sideBar.dropBackground": "#232731",
 
     "list.inactiveSelectionBackground": "#232731AA",
@@ -44,7 +44,7 @@
     "listFilterWidget.background": "#00cbfb60",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#ff4d33",
-    "tree.indentGuidesStroke": "#EEEEEEAE",
+    "tree.indentGuidesStroke": "#EEEEEEBE",
 
     "statusBar.foreground": "#EEEEEE",
     "statusBar.background": "#2c303d",
@@ -91,7 +91,7 @@
     "inputOption.hoverBackground":"#00cbfb30",
 
     "textLink.foreground": "#EEEEEEAE",
-    "textLink.activeForeground": "#EEEEEE",
+    "textLink.activeForeground": "#00cbfb",
 
     "breadcrumb.background": "#232731",
     "breadcrumb.foreground": "#EEEEEEBE",
@@ -213,7 +213,7 @@
     "editor.selectionHighlightBorder": "#00000000",
     "editor.findMatchBackground": "#7681a499",
     "editor.findMatchBorder": "#00000000",
-    "editor.findMatchHighlightBackground": "#7681a433",
+    "editor.findMatchHighlightBackground": "#00cbfb60",
     "editor.findMatchHighlightBorder": "#00000000",
     "editor.findRangeHighlightBackground": "#7681a433",
     "editor.findRangeHighlightBorder": "#00000000",
@@ -222,7 +222,7 @@
     "editor.hoverHighlightBackground": "#00cbfb10",
     "editor.wordHighlightStrongBackground": "#7681a422",
     "editor.lineHighlightBorder": "#00000000",
-    "editorLineNumber.activeForeground": "#00cbfb77",
+    "editorLineNumber.activeForeground": "#00cbfbbe",
     "editorLink.activeForeground": "#00cbfbee",
     "editorIndentGuide.background": "#EEEEEE1f",
     "editorIndentGuide.activeBackground": "#EEEEEE2f",
@@ -306,14 +306,14 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#b8dd82"
+        "foreground": "#ace673"
       }
     },
     {
       "name": "String Quoted",
       "scope": "string.quoted",
       "settings": {
-        "foreground": "#b8dd82"
+        "foreground": "#ace673"
       }
     },
     {
@@ -1245,7 +1245,7 @@
       "name": "JSON Property Names",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#b8dd82",
+        "foreground": "#ace673",
         "fontStyle": "bold"
       }
     },
