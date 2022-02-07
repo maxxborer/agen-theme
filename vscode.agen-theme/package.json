@@ -1,14 +1,14 @@
 {
     "name": "agen-theme",
     "displayName": "aGen Theme",
-    "publisher": "***REMOVED***",
+    "publisher": "maxxborer",
     "description": "Visual Studio Code theme: Palenight + Github Bolds tokens + medium contrast colors",
     "repository": {
       "type": "git",
-      "url": "https://github.com/***REMOVED***/agen-theme"
+      "url": "https://github.com/maxxborer/agen-theme"
     },
-    "icon": "icon.png",
-    "version": "0.1.6",
+    "icon": "icon.jpg",
+    "version": "0.1.7",
     "engines": {
         "vscode": "^1.63.0"
     },
