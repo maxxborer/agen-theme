@@ -1,5 +1,5 @@
 # aGen Color Palette
-set -l background 232636
+set -l background 282828
 set -l background_alpha 42435a
 set -l foreground fcfcfc
 set -l foreground_alpha cccccc
