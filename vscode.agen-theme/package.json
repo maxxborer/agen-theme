@@ -8,7 +8,7 @@
       "url": "https://github.com/maxxborer/agen-theme"
     },
     "icon": "icon.jpg",
-    "version": "0.1.7",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
     },
