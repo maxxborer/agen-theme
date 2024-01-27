@@ -1,4 +1,4 @@
-## aGen Theme for Visual Studio Code
+# aGen Theme for Visual Studio Code
 
 This theme is a beautiful amalgamation of the `Palenight` theme, `Github tokens`, with a blend of `medium contrast` and `rich colors` to enhance your coding experience. It's designed to be easy on the eyes and help you focus on what matters the most, your code.
 
@@ -9,7 +9,7 @@ This theme is a beautiful amalgamation of the `Palenight` theme, `Github tokens`
 ![Screenshot 5](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/5.png?raw=true)
 ![Screenshot 6](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/6.png?raw=true)
 
-### Installation
+## Installation
 
 1. Open the **Extensions** sidebar in VS Code.
 2. Search for `aGen Theme`.
@@ -17,7 +17,7 @@ This theme is a beautiful amalgamation of the `Palenight` theme, `Github tokens`
 4. Click **Reload** to reload your editor.
 5. Navigate to Code > Preferences > Color Theme > **aGen Theme**.
 
-### Customization
+## Customization
 
 If you wish to modify the theme, you can override the color keys in your own user settings. Just open the Command Palette with `Ctrl+Shift+P`, search for `Settings (JSON)` and add your overrides there.
 
