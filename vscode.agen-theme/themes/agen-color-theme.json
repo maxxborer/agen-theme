@@ -1,7 +1,7 @@
 {
-	"name": "aGen Theme",
-	"type": "dark",
-	"colors": {
+  "name": "aGen Theme",
+  "type": "dark",
+  "colors": {
     "foreground": "#b4becf",
     "focusBorder": "#00000000",
 
@@ -287,7 +287,7 @@
     "terminal.ansiWhite": "#f8eee6",
     "terminal.ansiBrightWhite": "#fff8f8",
 
-	},
+  },
   "tokenColors": [
     {
       "name": "Global settings",
