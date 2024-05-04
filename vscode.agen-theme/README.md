@@ -4,10 +4,6 @@ This theme is a beautiful amalgamation of the `Palenight` theme, `Github tokens`
 
 ![Screenshot 1](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/1.png?raw=true)
 ![Screenshot 2](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/2.png?raw=true)
-![Screenshot 3](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/3.png?raw=true)
-![Screenshot 4](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/4.png?raw=true)
-![Screenshot 5](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/5.png?raw=true)
-![Screenshot 6](https://github.com/maxxborer/agen-theme/blob/main/vscode.agen-theme/screenshots/6.png?raw=true)
 
 ## Installation
 
